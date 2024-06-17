@@ -3,16 +3,9 @@
 using namespace std;
 
 /*
-SEMESTER PROJECT
+
 HOSPITAL MANAGEMENT SYSTEM
 DSA
-SIR INAYAT UR REHMAN
-
-BCS-3B
-Muhammad Hassan Munawar  FA20-BCS-056
-Muhammad Maarij          FA20-BCS-060
-Fatima Mahsud            SP20-BCS-113
-
 
 USERNAME: Admin
 PASSWORD: 123
